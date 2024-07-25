@@ -1,6 +1,6 @@
 "use client";
 
-import { AnimatePresence, motion } from "framer-motion"; // Add motion import
+import { AnimatePresence, motion } from "framer-motion";
 import { usePathname } from "next/navigation";
 
 const PageTransition = ({ children }) => {
